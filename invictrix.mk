@@ -34,4 +34,7 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=bacon \
     TARGET_DEVICE=A0001
 
+# Invictrix maintainer	
+INVICTRIX_MAINTAINER := BlackScorpion3
+
 BUILD_FINGERPRINT := oneplus/bacon/A0001:6.0.1/MHC19Q/ZNH2KAS1KN:user/release-keys
